@@ -1,0 +1,57 @@
+/* NexCrypt VPN Custom Theme */
+:root {
+    --nc-dark: #003049;
+    --nc-highlight: #00B4D8;
+    --nc-light: #E9ECEF;
+    --nc-text-light: #FFFFFF;
+    --nc-text-secondary: #495057;
+}
+
+body {
+    background-color: var(--nc-dark);
+    color: var(--nc-text-light);
+    font-family: 'Poppins', Arial, sans-serif;
+}
+
+.navbar-brand, .font-alt {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+#mainNav {
+    background-color: var(--nc-dark);
+}
+
+#mainNav .navbar-nav .nav-link {
+    color: var(--nc-text-light);
+}
+
+#mainNav .navbar-nav .nav-link.active,
+#mainNav .navbar-nav .nav-link:hover {
+    color: var(--nc-highlight);
+}
+
+.btn-primary {
+    background-color: var(--nc-highlight);
+    border-color: var(--nc-highlight);
+}
+
+.btn-outline-light {
+    color: var(--nc-text-light);
+    border-color: var(--nc-text-light);
+}
+
+.bg-secondary-custom {
+    background-color: var(--nc-light);
+    color: var(--nc-text-secondary);
+}
+
+.bg-gradient-primary-to-secondary {
+    background: linear-gradient(45deg, var(--nc-highlight), var(--nc-dark)) !important;
+}
+
+.text-gradient {
+    background: -webkit-linear-gradient(var(--nc-highlight), var(--nc-text-light));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
