@@ -45,3 +45,116 @@ Esses requisitos estão a ser desenvolvidos em três etapas entre 2024 e 2025.
 ## Contactos
 
 Para mais informa&ccedil;&otilde;es consulte o [Politécnico da Guarda](https://www.ipg.pt) ou o portal [PAMA](https://pama.ipg.pt).
+
+---
+
+## Sobre Nós
+
+### História
+
+"Fundada por um grupo de especialistas em segurança de redes e criptografia..."
+
+### Missão
+
+Proteger a privacidade digital de indivíduos e empresas através de tecnologia avançada.
+
+### Visão
+
+Ser referência global em soluções VPN seguras e inovadoras.
+
+### Valores
+
+Privacidade, Transparência, Segurança, Inovação.
+
+---
+
+## Equipa
+
+| Papel | Responsável | Descrição do Papel |
+|-------|-------------|------------------------|
+| Team Leader | Tiago Gaspar | Coordena toda a equipa e gere o projeto. Representa a equipa perante stakeholders. |
+| Account Manager | Micael Capelão | Define requisitos e mockups, atuando como ponte com o cliente. |
+| Software Manager | Rafael Santos | Garante arquitetura e ferramentas adequadas ao desenvolvimento. |
+| Risk Manager | Nuno Rocha | Identifica riscos, prepara estratégias de testes e mitigação. |
+| Quality Manager | Miguel Silva | Define padrões de qualidade e revê código e documentação. |
+| Developer | Diogo Saraiva | Implementa funcionalidades e integrações. |
+| Developer | Vagner Jesus | Faz debug e garante segurança e eficiência do software. |
+
+---
+
+## Tecnologia
+
+**Arquitetura**
+
+Comunicação segura entre clientes via TCP.
+
+Encriptação: Cifra de César Generalizada.
+
+Troca de chaves: algoritmo Diffie-Hellman.
+
+**Diferenciais**
+
+- Blockchain interno para registo imutável das configurações.
+- Gestão de múltiplos administradores com autenticação reforçada.
+- Diagrama de rede simplificado para demonstração.
+
+---
+
+## Funcionalidades
+
+- Comunicação segura entre clientes UDP.
+- Criação automática de túneis encriptados.
+- Troca segura de chaves simétricas.
+- Integração com sistema de gestão para vários administradores.
+- Auditoria com Blockchain simplificada.
+- Interface gráfica moderna para controlo e monitorização.
+
+---
+
+## Planos e Preços
+
+| Plano | Descrição |
+|-------|-----------|
+| Starter | Uso pessoal básico – gratuito ou valor simbólico. |
+| Professional | Para empresas, inclui suporte técnico. |
+| Enterprise | Soluções personalizadas e dedicadas. |
+
+---
+
+## FAQs
+
+1. **O que é uma VPN?**
+2. **Como a NexCrypt VPN garante a segurança?**
+3. **Que tecnologia de encriptação é usada?**
+4. **Como posso instalar e configurar?**
+5. **É possível integrar com sistemas empresariais?**
+
+---
+
+## Contacto
+
+Email geral: [info@nexcryptvpn.com](mailto:info@nexcryptvpn.com)
+
+Telefone empresarial (se aplicável).
+
+Links para redes sociais (LinkedIn, GitHub, etc.).
+
+Formulário de contacto (nome, email, mensagem).
+
+---
+
+## Notas Importantes para o Design
+
+- **Estilo:** moderno, limpo e profissional.
+- **Cores:** fundo azul petróleo com destaques em ciano e texto branco.
+- **Fontes:** Montserrat ou Poppins.
+- **Ícones:** minimalistas, representando segurança e tecnologia.
+
+---
+
+## Resumo de Conteúdos Sobre o Sistema
+
+- O que é a NexCrypt VPN e como funciona.
+- Diferenciais técnicos: Cifra de César Generalizada, Diffie-Hellman e Blockchain.
+- Benefícios: privacidade, segurança de dados e gestão de administradores.
+- Equipa altamente qualificada em redes, segurança e desenvolvimento.
