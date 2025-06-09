@@ -18,7 +18,7 @@ body {
 }
 
 #mainNav {
-    background-color: var(--nc-dark);
+    /*background-color: var(--nc-dark);*/
 }
 
 #mainNav .navbar-nav .nav-link {
